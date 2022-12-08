@@ -1,11 +1,3 @@
-# KNU_BigData
-## 빅데이터분석가 양성과정 2기
-기관 : 경북대학교 데이터융복합연구원
-https://datainstitute.knu.ac.kr/
-
-## 교육 기간
-6개월(960시간), 8시간/일
-2022.06.22.~2022.12.14
-
-## 교육 과정
-파이썬(5일), 판다스(5), 빅데이터분석(6), Kaggle&공공데이터(5), 크롤링/정제(5), R프로그래밍(3), 통계분석(4), 시각화(5), 태블로(4), 머신러닝(8), 딥러닝(7), 자연어처리(6), SQL(5), 프로젝트방법론(5), 클라우드(7), 기업수요맞춤형프로젝트(40일)
+## 프로젝트 방법론
+https://drive.google.com/drive/folders/1O2YF-A42P7fPi3XzGp0-0ZZXl0F7xVjc
+https://github.com/knudatascientists/Team3_stair
